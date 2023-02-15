@@ -1,0 +1,57 @@
+nav ul li {
+    margin: 0 10px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+h1 {
+    margin: 0;
+    font-size: 3rem;
+}
+
+p {
+    font-size: 1.2rem;
+    line-height: 1.5;
+}
+
+main {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+section{
+    margin: 20px 0;
+
+}
+
+section h2 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+
+ul li {
+    flex: 1;
+    margin: 0 10px;
+    text-align: center;
+}
+
+ul li img {
+    width: 100%;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+
